@@ -64,6 +64,6 @@ Here you’ll find a curated collection of my projects and Certificates, showcas
 
 ## 🤳 Connect with Me  
 
-- <a href="https://danysaad002.github.io/Dany-Saad.github.io/" target="_blank">Portfolio Website</a>  
-- <a href="https://www.linkedin.com/in/dany-saad-02b269330/" target="_blank">LinkedIn</a>  
+- 🌐 <a href="https://danysaad002.github.io/Dany-Saad.github.io/" target="_blank">Portfolio Website</a>  
+- 💼 <a href="https://www.linkedin.com/in/dany-saad-02b269330/" target="_blank">LinkedIn</a>  
 - 📧 <a href="mailto:danysaadclear@gmail.com" target="_blank">danysaadclear@gmail.com</a>  
