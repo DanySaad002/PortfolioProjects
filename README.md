@@ -10,15 +10,15 @@ Here you’ll find a curated collection of my projects and Certificates, showcas
 ## 📜 Certifications & Training  
 
 - **Data Analytics Bootcamp – Alex the Analyst**  
-  🔗 [Certificate](https://github.com/DanySaad002/PortfolioProjects/blob/main/Data%20Analytics%20Bootcamp%20Certification%20of%20Completion.png)  
+  🔗 <a href="https://github.com/DanySaad002/PortfolioProjects/blob/main/Data%20Analytics%20Bootcamp%20Certification%20of%20Completion.png" target="_blank">Certificate</a>  
 
 - **Meta Data Analyst Professional Certificate (Coursera)**  
   - Introduction to Data Analytics
-      🔗 [View Certificate](https://coursera.org/share/4b6090a213e1bc773f5a925ae232233b)
+      🔗 <a href="https://coursera.org/share/4b6090a213e1bc773f5a925ae232233b" target="_blank">View Certificate</a>
   - Data Analysis with Spreadsheets and SQL
-      🔗 [View Certificate](https://coursera.org/share/6ade9daf0deb8191792a86fc424a9bc2)
+      🔗 <a href="https://coursera.org/share/6ade9daf0deb8191792a86fc424a9bc2" target="_blank">View Certificate</a>
   - Python Data Analytics
-      🔗 [View Certificate](https://coursera.org/share/20c96b291696a7437d0e6d278c24a0aa)
+      🔗 <a href="https://coursera.org/share/20c96b291696a7437d0e6d278c24a0aa" target="_blank">View Certificate</a>
   - Statistics Foundations *(ongoing)*
       📌 In progress
 
@@ -29,26 +29,26 @@ Here you’ll find a curated collection of my projects and Certificates, showcas
 🟢 **SQL Projects**  
 - **Data Cleaning in SQL**  
   Cleaned and optimized a housing dataset (**50k+ rows**) in SQL Server to ensure accuracy and consistency.  
-  🔗 [View Project](https://github.com/DanySaad002/PortfolioProjects/blob/main/Data%20Cleaning%20in%20SQL.sql)  
+  🔗 <a href="https://github.com/DanySaad002/PortfolioProjects/blob/main/Data%20Cleaning%20in%20SQL.sql" target="_blank">View Project</a>  
 
 - **SQL Data Exploration (COVID-19 Dataset)**  
   Performed data exploration on global COVID-19 data to uncover trends in infection rates, deaths, and vaccinations.  
-  🔗 [View Project](https://github.com/DanySaad002/PortfolioProjects/blob/main/Data%20Analyst%20Portfolio%20Project%20SQL%20Data%20Exploration.sql)  
+  🔗 <a href="https://github.com/DanySaad002/PortfolioProjects/blob/main/Data%20Analyst%20Portfolio%20Project%20SQL%20Data%20Exploration.sql" target="_blank">View Project</a>  
 
 🟠 **Excel Project**  
 - **Bike Sales Dashboard**  
   Cleaned and structured bike sales data, then built an interactive Excel dashboard with slicers, pivot tables, and KPIs.  
-  🔗 [View Project](https://github.com/DanySaad002/PortfolioProjects/blob/main/Excel%20Project%20Bike%20Sales.xlsx)  
+  🔗 <a href="https://github.com/DanySaad002/PortfolioProjects/blob/main/Excel%20Project%20Bike%20Sales.xlsx" target="_blank">View Project</a>  
 
 🟡 **Power BI Project**  
 - **Data Professional Survey Dashboard**  
   Transformed and cleaned survey responses with Power Query. Designed a Power BI dashboard visualizing demographics, tools used, and salary insights.  
-  🔗 [View Project](https://github.com/DanySaad002/PortfolioProjects/blob/main/Power%20BI%20Project%20%E2%80%93%20Data%20Professional%20Survey.pbix)  
+  🔗 <a href="https://github.com/DanySaad002/PortfolioProjects/blob/main/Power%20BI%20Project%20%E2%80%93%20Data%20Professional%20Survey.pbix" target="_blank">View Project</a>  
 
 🟣 **Python Project**  
 - **Movie Correlation Analysis**  
   Conducted exploratory data analysis in Python using **pandas**, **numpy**, and **matplotlib**. Built correlation heatmaps to identify relationships between movie budgets, gross revenue, and ratings.  
-  🔗 [View Project](https://github.com/DanySaad002/PortfolioProjects/blob/main/Movie%20Correlation%20Project.ipynb)  
+  🔗 <a href="https://github.com/DanySaad002/PortfolioProjects/blob/main/Movie%20Correlation%20Project.ipynb" target="_blank">View Project</a>  
 
 ---
 
@@ -64,6 +64,6 @@ Here you’ll find a curated collection of my projects and Certificates, showcas
 
 ## 🤳 Connect with Me  
 
-- [Portfolio Website](https://danysaad002.github.io/Dany-Saad.github.io/)  
-- [LinkedIn](https://www.linkedin.com/in/dany-saad-02b269330/)  
-- 📧 **danysaadclear@gmail.com**  
+- <a href="https://danysaad002.github.io/Dany-Saad.github.io/" target="_blank">Portfolio Website</a>  
+- <a href="https://www.linkedin.com/in/dany-saad-02b269330/" target="_blank">LinkedIn</a>  
+- 📧 <a href="mailto:danysaadclear@gmail.com" target="_blank">danysaadclear@gmail.com</a>  
