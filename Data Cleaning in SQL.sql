@@ -8,7 +8,7 @@ From PortfolioProject.dbo.NashvilleHousing
 
 -- Standardize Date Format
 
---I wrote the queries but I didn't need to run them because SaleDate was already standarized... cool!
+--I wrote the queries but I didn't need to run them because SaleDate was already standarized
 
 --Select saleDateConverted, CONVERT(Date,SaleDate)
 --From PortfolioProject.dbo.NashvilleHousing
@@ -193,4 +193,5 @@ From PortfolioProject.dbo.NashvilleHousing
 
 
 ALTER TABLE PortfolioProject.dbo.NashvilleHousing
+
 DROP COLUMN OwnerAddress, TaxDistrict, PropertyAddress, SoldAsVacant;
